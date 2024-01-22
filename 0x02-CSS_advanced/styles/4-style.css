@@ -4,7 +4,7 @@ html {
    }
 body {
     color: var(---text-color);
-    font: var(---font-family-base);
+    font-family: var(---font-family-base);
 }
 a {
     color: var(---text-color);
@@ -34,6 +34,6 @@ a {
     
 }
 h1, h2, h3, h4, h5, h6 {
-    font: var(---font-family-title);
+    font-family: var(---font-family-title);
 
 }
