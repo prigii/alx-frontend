@@ -1,0 +1,5 @@
+## 0x02. Advanced CSS
+### Tasks
+Advanced tasks on CSS at ALX for specialisation stage.
+0. Let's get some images!
+1. Effortless transitions when scrolling
