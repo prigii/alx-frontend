@@ -12,3 +12,4 @@ Advanced tasks on CSS at ALX for specialisation stage.
 8. Defining line heights
 9. Links are decorated by default, time to remove them
 10. Centering the section titles
+11. Add more styles to the section tagline
