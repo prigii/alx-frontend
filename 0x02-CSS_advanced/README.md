@@ -6,3 +6,6 @@ Advanced tasks on CSS at ALX for specialisation stage.
 2. Do you know your color values?
 3. Reuse and repeat. A programmer's life should be simple with variables
 4. Variables for storing certain font types
+5. Variables for the font size
+6. Variables for the font-weight
+7. Integrating Google Fonts into the CSS file
