@@ -13,3 +13,7 @@ Advanced tasks on CSS at ALX for specialisation stage.
 9. Links are decorated by default, time to remove them
 10. Centering the section titles
 11. Add more styles to the section tagline
+12. Adding more styling to the section title
+13. Pseudo Classes
+14. Resetting the CSS stylesheet for browser consistency
+15. Add universal box-sizing
