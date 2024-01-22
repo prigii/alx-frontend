@@ -17,3 +17,4 @@ Advanced tasks on CSS at ALX for specialisation stage.
 13. Pseudo Classes
 14. Resetting the CSS stylesheet for browser consistency
 15. Add universal box-sizing
+16. Styling the container
