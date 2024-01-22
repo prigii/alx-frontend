@@ -18,3 +18,7 @@ Advanced tasks on CSS at ALX for specialisation stage.
 14. Resetting the CSS stylesheet for browser consistency
 15. Add universal box-sizing
 16. Styling the container
+17. Adding padding to sections
+18. Customizing the navbar
+19. Grid styling and custom variables
+20. Clear the context of the grid
