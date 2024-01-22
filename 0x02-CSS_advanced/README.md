@@ -5,3 +5,4 @@ Advanced tasks on CSS at ALX for specialisation stage.
 1. Effortless transitions when scrolling
 2. Do you know your color values?
 3. Reuse and repeat. A programmer's life should be simple with variables
+4. Variables for storing certain font types
