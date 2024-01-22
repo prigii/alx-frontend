@@ -9,3 +9,5 @@ Advanced tasks on CSS at ALX for specialisation stage.
 5. Variables for the font size
 6. Variables for the font-weight
 7. Integrating Google Fonts into the CSS file
+8. Defining line heights
+9. Links are decorated by default, time to remove them
