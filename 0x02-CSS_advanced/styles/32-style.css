@@ -483,10 +483,7 @@
     border: var(--button-border);
     font-size: var(--button-font-size);
     color: var(--button-color);
-    text-decoration: var(--button-text-decoration);
-    transition: var(--transition-duration);
-    transition-property: var(--text-color) var(--button-hover-background);
-
+    text-decoration: var(--button-text-decoration);    
   }
 
   .button:hover {
