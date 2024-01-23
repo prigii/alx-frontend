@@ -533,10 +533,11 @@
     padding: 0.5rem;
   }
 
-  .row {
-    content: none;
+  /* CSS rule that creates a new row after each instance of the class row */
+.row::after {
+    content: "";
     display: table;
-    float: none;
+    clear: both;
   }
 
   .container {
