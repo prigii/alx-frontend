@@ -489,7 +489,7 @@
   .button:hover {
     color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
-    background-color: var(--button-hover-background);
+    background: var(--button-hover-background);
     transition-duration: var(--transition-duration);
     transition-property: color, background-color;
   }
@@ -603,9 +603,9 @@
 
   .card-work:hover .card-inner {
     background-color: rgba(0, 0, 0, 0.7);
-    transition: var(--transition-duration) var(--transition-cubic-bezier);
+    
   }
-
+  
   .card-work .card-title {
     text-align: center;
     margin: 0;
@@ -649,7 +649,7 @@
 
   .card-work:hover .card-image img {
     transform: scale(1.2);
-    
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
   }
 
   .card-work:hover .card-outer {
