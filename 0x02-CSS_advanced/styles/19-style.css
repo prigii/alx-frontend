@@ -533,6 +533,12 @@
     padding: 0.5rem;
   }
 
+  .row {
+    content: none;
+    display: table;
+    float: none;
+  }
+
   .container {
       width: 960px;
       margin-left: auto;
