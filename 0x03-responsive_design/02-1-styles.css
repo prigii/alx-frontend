@@ -61,7 +61,11 @@
     --section-tagline-font-family: var(--font-family-headings);
     --section-tagline-font-weight: var(--font-weight-bold);
     --section-tagline-margin: 0;
+<<<<<<< HEAD
     --section-body-padding: 2rem 0 4rem;
+=======
+    --section-body-padding: 3rem 0 0;
+>>>>>>> d1cd56a028065329c45ab6e268ab373d9d015cbd
     --section-footer-padding: 3rem 0 0;
     --section-footer-align: center;
   
@@ -168,6 +172,13 @@
   
   /* Helpers
       ============================= */
+<<<<<<< HEAD
+=======
+  .main-article {
+    width: 100%;
+    height: auto;
+  }  
+>>>>>>> d1cd56a028065329c45ab6e268ab373d9d015cbd
   
   .visually-hidden:not(:focus):not(:active) {
     position: absolute !important;
@@ -184,7 +195,11 @@
       ============================= */
   
   .container {
+<<<<<<< HEAD
     width: 960px;
+=======
+    max-width: 960px;
+>>>>>>> d1cd56a028065329c45ab6e268ab373d9d015cbd
     margin-left: auto;
     margin-right: auto;
   }
@@ -214,6 +229,25 @@
     width: calc((100% / 2) - 2rem);
   }
   
+<<<<<<< HEAD
+=======
+  @media screen and (max-width: 767px) {
+    :root {
+      --section-padding: 5rem 1.5rem;
+      --section-body-padding: 2rem 0 0;
+    }
+    ul.row, .row{
+      flex-direction: column;
+      margin: 0;
+    }
+  [class^="col-"] {
+      margin: 0 0 3rem 0;
+    }
+    .col-1-3, .col-1-2 {
+      width: 100%;
+    }
+  }
+>>>>>>> d1cd56a028065329c45ab6e268ab373d9d015cbd
   /* Navbar
       ============================= */
   
@@ -262,6 +296,15 @@
     background-color: var(--color-primary);
     width: 100%;
   }
+<<<<<<< HEAD
+=======
+
+  @media screen and (max-width: 767px) {
+    .navbar-menu {
+      display: none;
+    }
+  }
+>>>>>>> d1cd56a028065329c45ab6e268ab373d9d015cbd
   
   /* Header
       ============================= */
@@ -401,6 +444,15 @@
     flex-direction: row-reverse;
   }
   
+<<<<<<< HEAD
+=======
+  @media screen and (max-width: 767px) {
+    .section-latest-news .row {
+      flex-direction: column;
+    }
+  }
+  
+>>>>>>> d1cd56a028065329c45ab6e268ab373d9d015cbd
   /* Section SERVICES
       ============================= */
   
